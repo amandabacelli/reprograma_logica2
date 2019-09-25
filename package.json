@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reprograma/n1-meli-logica-2.git"
+    "url": "git+https://github.com/amandabacelli/n1-meli-logica-2.git"
   },
   "author": "luma marigo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reprograma/n1-meli-logica-2/issues"
+    "url": "https://github.com/amandabacelli/n1-meli-logica-2.git/issues"
   },
-  "homepage": "https://github.com/reprograma/n1-meli-logica-2#readme",
+  "homepage": "https://github.com/amandabacelli/n1-meli-logica-2.git#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
   }
