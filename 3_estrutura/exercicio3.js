@@ -1,4 +1,4 @@
-var r = require("readline-sync")
+const r = require("readline-sync")
 
 let cadastroProdutos = [
     { nome: "iogurte de morango", tempoDeValidade: 100, congelado: false },
